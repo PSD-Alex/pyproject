@@ -4,7 +4,7 @@
 # In[2]:
 
 
-# V 1.2
+# V 1.3
 def exchange(nok_amount):
     nok_gbp = 12.56
     nok_usd = 9.55
